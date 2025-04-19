@@ -18,7 +18,7 @@ Donut Charts 🍩
 ## 📅 Trend Analysis:
 The dashboard enables the analysis of sales trends across different days and months, providing valuable insights into the performance of the coffee shop.
 
-##🔧 Tools & Techniques:
+## 🔧 Tools & Techniques:
 Data Cleaning & Manipulation: Power Query Editor
 Data Modeling: Excel
 Data Analysis Expressions (DAX): For advanced calculations
