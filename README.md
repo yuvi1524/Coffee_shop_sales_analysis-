@@ -22,4 +22,4 @@ The dashboard enables the analysis of sales trends across different days and mon
 Data Cleaning & Manipulation: Power Query Editor
 Data Modeling: Excel
 Data Analysis Expressions (DAX): For advanced calculations
-Visualizations: Pivot tables and various charts to highlight trends and insights
+Visualizations: Pivot tables and various charts to highlight trends and insights.
